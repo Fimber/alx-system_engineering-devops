@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This repository is for an alx shell task, cohort 10.
