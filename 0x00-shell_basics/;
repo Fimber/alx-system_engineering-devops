@@ -1,0 +1,2 @@
+#!/bin/bash
+FIND=$(cd ~/dir1; echo *)
